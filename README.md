@@ -2,6 +2,12 @@
 
 This is a car rental calculator that has both a command-line interface and a GUI. The calculator takes input for rental code, rental period, starting odometer reading, and ending odometer reading. It then calculates the base charge, mileage charge, and total amount due.
 
+## Purpose
+The purpose of this project was to provide a user-friendly interface to calculate car rental charges based on a user's specific input. Originally, this was a command-line Python application, but to enhance usability and interaction, a GUI was implemented. This project is also a great demonstration of taking an existing solution and enhancing it with additional features.
+
+## Solution
+The Car Rental Calculator now includes both a command-line interface and a GUI. This offers an interactive, intuitive, and user-friendly way for users to calculate their car rental costs. The application takes the rental code, rental period, starting odometer reading, and ending odometer reading as input, then calculates the base charge, mileage charge, and total amount due.
+
 ## Features
 
 1. Validation checks for user input.
